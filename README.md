@@ -9,7 +9,7 @@
 
 | | |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superJK92iscool&layout=compact&theme=dark) | ![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=superJK92iscool&show_icons=true&theme=dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superJK92iscool&theme=dark) | ![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=superJK92iscool&show_icons=true&theme=dark) |
 
 ---
 
